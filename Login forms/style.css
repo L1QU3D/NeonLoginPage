@@ -1,0 +1,222 @@
+@import url('https://fonts.googleapis.com/css2?family=poppins.weight@300;400;500;600;700;800;900& display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins',sans-serif;
+    
+}
+section{
+    display: flex;
+    justify-content: center;
+    min-height: 80vh;
+    background: linear-gradient(-30deg, rgba(8, 7, 13, 0.46) 0%, hsla(187, 13%, 75%, 0.664) 50%, #262626 50%, #607d8b 100% );
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #000;
+    background-image: url(Background.jpg);
+
+}
+.wrapper {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 700px;
+    background: transparent;
+    border: 5px solid #333;
+    border-radius: 10px;
+    transition: .5s;
+
+}
+.wrapper:hover {
+    border: 5px solid #0ef;
+    box-shadow: 0 0 20px #0ef inset, 0 0 20px #0ef; 
+
+}
+ h2 {
+    height: fit-content;
+    position: center;
+    font-size: 1cm;
+    text-align: center;
+    color: #fff;
+    margin: 0 0 80px 0;
+
+}
+.wrapper:hover h2 {
+    color: #0ef;
+}
+.glow-on-hover {
+    width: 220px;
+    height: 50px;
+    border: none;
+    outline: none;
+    color: #fff;
+    background: #111;
+    cursor: pointer;
+    position: relative;
+    z-index: 0;
+    border-radius: 10px;
+}
+
+.glow-on-hover:before {
+    content: '';
+    background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);
+    position: absolute;
+    top: -2px;
+    left:-2px;
+    background-size: 400%;
+    z-index: -1;
+    filter: blur(5px);
+    width: calc(100% + 4px);
+    height: calc(100% + 4px);
+    animation: glowing 20s linear infinite;
+    opacity: 0;
+    transition: opacity .3s ease-in-out;
+    border-radius: 10px;
+}
+
+.glow-on-hover:active {
+    color: #000
+}
+
+.glow-on-hover:active:after {
+    background: transparent;
+}
+
+.glow-on-hover:hover:before {
+    opacity: 1;
+}
+
+.glow-on-hover:after {
+    z-index: -1;
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #1b13bb;
+    left: 0;
+    top: 0;
+    border-radius: 10px;
+}
+
+@keyframes glowing {
+    0% { background-position: 0 0; }
+    50% { background-position: 400% 0; }
+    100% { background-position: 0 0; }
+}
+    
+
+.icon {
+    position: center;
+    width: 5px;
+    margin-left: 1.0cm;
+    color: #fff;
+    font-size: 1.5cm;
+    line-height: 55px;
+    transition: .5s;
+
+}
+.wrapper:hover .icon {
+    color:#0ef;
+
+}
+.input-box  input {
+   width: 100%;
+    height:  50px;
+    background: transparent;
+    border: 2px solid #333;
+    outline:  none;
+    border-radius: 5px;
+    font-size: .7cm;
+    color: #fff;
+    padding: 0 10px 0 40px;
+    transition: .5s;
+
+}
+.wrapper:hover .input-box input {
+    border: 2px solid #0ef;
+    box-shadow:  0 0 10px #0ef inset, 0 0 10px #0ef;
+}
+.input-box input::placeholder {
+    color: rgba(255, 255, 255, .3);
+
+}
+.input-box .icon {
+    position: absolute;
+    left: .1px;
+    color: #fff;
+    font-size: 1.0cm;
+    line-height:  55px;
+    transition: .5px;
+
+}
+.wrapper:hover .input-box .icon {
+    color: #0ef;
+}
+.forgot-pass a {
+    position: center;
+    color: #fff;
+    font-size:  .6cm;
+    text-decoration: none;
+    margin-left:  60px;
+    margin: 100px;
+
+
+}
+.forgot-pass a:hover {
+    text-decoration: underline;
+}
+button {
+    position:  center;
+    width: 100px;
+    height:  45px;
+    margin: 80px 0;
+    background: #333;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 0.8cm;
+    color: #fff;
+    font-weight: 500;
+    transition: .5s;
+    align-self: center;
+}
+.wrapper:hover button {
+    background: #0ef;
+    color: #000;
+    box-shadow: 0 0 20px #0ef;
+}
+.register-link {
+    position: center;
+    font-size:  .6cm;
+    text-align: center;
+    margin:  50px 0;
+
+}
+.register-link p {
+    color: #fff;
+
+}
+.register-link p a {
+    color: #333;
+    text-decoration: none;
+    font-weight: 600;
+    transition: .5s;
+
+}
+.wrapper:hover .register-link p a {
+    color: #0ef;
+
+}
+.register-link p a:hover {
+    text-decoration: underline;
+
+}
