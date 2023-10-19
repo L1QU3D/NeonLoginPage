@@ -22,4 +22,23 @@
 ----      
 
   </p>
+
+
+  <!-- Metrics -->
+<details>
+  <summary><b>📊 Metrics</b></summary>
+    <p>
+
+<a href="https://github.com/Lissy93/Lissy93/blob/master/METRICS.md">
+   <img  width="400" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/summary.svg" alt="General Stats">
+   <img  width="400" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/habits.svg" alt="Coding Habits">
+</a>
+<br /><br /><br />
+       
+
+
+**[➡️ More Metrics](/METRICS.md)**
+
+</p>
+</details>
 </details>
