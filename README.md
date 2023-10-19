@@ -29,9 +29,18 @@
   <summary><b>👤 About</b></summary>
     <p>
       <img align="right" width="250" src="IMAGE" alt="Fredrick ole saruni" />
-    
-
- <!-- Tech Stack -->  
+    </details>
+      <!-- Blog Posts -->
+<details>
+  <summary><b>📰 Latest Blog Posts</b></summary>
+    <p>
+       
+<a href="https://www.kenyaconnects.me"><img align="right" width="120" src="https://i.ibb.co/fkpSwVg/liss-bot-round.png" alt="L1QU3D Blog" /></a>
+      
+</details>   
+       
+       
+<!-- Tech Stack -->  
 <details>
   <summary><b>🛠️ Tech Stack</b></summary>
     <p>
@@ -52,6 +61,7 @@
 ----      
 
   </p>
+  </details>
 
 
   <!-- Metrics -->
@@ -71,4 +81,111 @@
 
 </p>
 </details>
+
+<!-- Recent Activity -->
+<details>
+  <summary><b>⚡ Recent Activity</b></summary>
+    <p>
+            
+<a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=L1QU3D' alt='Astro Dab'></a>
+
+
+
+</details>
+
+<!--
+
+<details>
+  <summary><b>PGP</b></summary>
+    <p align="center">
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+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
+6y5qSg==
+=EJeF
+-----END PGP PUBLIC KEY BLOCK-----
+
+
+    
+
+
+
+
+
+<!-- Snek -->   
+<p align="center">
+<a href="https://gitstar-ranking.com/L1QU3D" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
+</p>
+
 </details>
