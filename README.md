@@ -1,4 +1,16 @@
 # NeonLoginPage
+
+<!-- Socials -->
+<p align="center">
+   <kbd>
+  <a href="https://twitter.com/FOlesaruni" title="Twitter - @FOlesaruni"><img src="https://img.shields.io/badge/-@L1QU3D-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
+  <a href="https://dev.to/l1qu3d" title="Dev.to - @l1qu3d"><img src="https://img.shields.io/badge/-L1QU3D-a75fff?style=flat&logo=Dev.to&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/22770600" title="StackOverflow - Fredrick ole Saruni"><img src="https://img.shields.io/badge/-Freddie-f48225?style=flat&logo=Stackoverflow&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/fredricksaruni" title="LinkedIn - Fredrick ole Saruni"><img src="https://img.shields.io/badge/-L1QU3D-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://www.reddit.com/user/L1QU3D" title="Reddit - u/L1QU3D"><img src="https://img.shields.io/badge/-L1QU3D-ff4500?style=flat&logo=reddit&logoColor=white" /></a>
+  <a href="https://kenyaconnects.me" title="Personal Website - kenyaconnects.me"><img src="https://img.shields.io/badge/-kenyaconnects.me-00CCB4?style=flat&logo=ApacheSpark&logoColor=white" /></a>
+  </kbd>
+</p>
  This is a html and css made website that has high tech made
 
  <!-- Tech Stack -->  
