@@ -1,5 +1,11 @@
 # NeonLoginPage
+<!-- Title -->
+<h1 align="center" title="...and I'm happy to see you here :)">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 FREDRICK OLE SARUNI</h1>
 
+<!-- Contact and keys -->
+<p align="center">
+<a href="mailto:freddieolesaruni@gmail.com" title="Email Address"><code>freddieolesaruni at gmail dot com</code></a> │ <a href="https://keybase.io/l1qu3d/pgp_keys.asc?fingerprint=9dd73682759d0c37d2af3648bd4f77236f80fb64" title="PGP Public Key"><code>BD4F 7723 6F80 FB64</code></a> │
+</p>
 <!-- Socials -->
 <p align="center">
    <kbd>
@@ -11,7 +17,19 @@
   <a href="https://kenyaconnects.me" title="Personal Website - kenyaconnects.me"><img src="https://img.shields.io/badge/-kenyaconnects.me-00CCB4?style=flat&logo=ApacheSpark&logoColor=white" /></a>
   </kbd>
 </p>
- This is a html and css made website that has high tech made
+  
+<!-- Outer collapsible -->  
+<details>
+   <summary><b>↕️ Expand for more!</b></summary>
+  
+   <br>
+   
+<!-- About Section -->
+<details>
+  <summary><b>👤 About</b></summary>
+    <p>
+      <img align="right" width="250" src="IMAGE" alt="Fredrick ole saruni" />
+    
 
  <!-- Tech Stack -->  
 <details>
