@@ -90,7 +90,7 @@ This repository showcases a collection of my certifications.
 
  | Badge | Certification | Description |
 | ------------ | ----------- | ----- |
- ![Certification 1](./guthub.png) | [Python Essentials 1](https://www.credly.com/badges/c7f8e359-72d5-4052-9fc7-8bdb3d061614/public_url).  | Brief description of Certification 1 |
+ [![Python Essentials 1](./guthub.png)](https://www.credly.com/badges/c7f8e359-72d5-4052-9fc7-8bdb3d061614/public_url)  | [Python Essentials ](https://www.credly.com/badges/c7f8e359-72d5-4052-9fc7-8bdb3d061614/public_url).  | Brief description of Certification 1 |
 | ![Certification 2](BADGE_URL_2)| [Certification 2](CREDLY_CERTIFICATION_URL_2) | Brief description of Certification 2  |
 | ![Certification 3](BADGE_URL_3) | [Certification 3](CREDLY_CERTIFICATION_URL_3) | Brief description of Certification 3 |
 [![Python Essentials 1](./python-essentials-1.1.png)](https://www.credly.com/badges/c7f8e359-72d5-4052-9fc7-8bdb3d061614/public_url) 
