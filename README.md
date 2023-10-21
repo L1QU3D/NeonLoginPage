@@ -77,11 +77,40 @@
 <details>
   <summary><b>📰 Latest Blog Posts</b></summary>
     <p>
-       
-<a href="https://www.kenyaconnects.me"><img align="right" width="120" src="https://i.ibb.co/fkpSwVg/liss-bot-round.png" alt="L1QU3D Blog" /></a>
-                              
-[![Python Essentials 1](./python-essentials-1.1.png)](https://www.credly.com/badges/c7f8e359-72d5-4052-9fc7-8bdb3d061614/public_url)   CISCO PYTHON CERTIFICATION                                                                                    
-[![introduction to IBM z/os](./introduction-to-ibm-z-os.png)](https://www.credly.com/badges/06d578f8-44dc-4664-a374-1f13b88df7db/public_url) IBM Z/OS CERTIFICATION
+# My Certifications
+
+[![GitHub issues](https://img.shields.io/github/issues/YourUsername/YourRepo.svg)](https://github.com/YourUsername/YourRepo/issues)
+[![GitHub forks](https://img.shields.io/github/forks/YourUsername/YourRepo.svg)](https://github.com/YourUsername/YourRepo/network)
+[![GitHub stars](https://img.shields.io/github/stars/YourUsername/YourRepo.svg)](https://github.com/YourUsername/YourRepo/stargazers)
+[![GitHub license](https://img.shields.io/github/license/YourUsername/YourRepo.svg)](https://github.com/YourUsername/YourRepo/blob/master/LICENSE)
+
+This repository showcases a collection of my certifications.
+
+## Certifications
+
+ | Badge | Certification | Description |
+| ------------ | ----------- | ----- |
+ ![Certification 1](./python-essentials-1.1.png) | [Certification 1](CREDLY_CERTIFICATION_URL_1) | Brief description of Certification 1 |
+| ![Certification 2](BADGE_URL_2)| [Certification 2](CREDLY_CERTIFICATION_URL_2) | Brief description of Certification 2  |
+| ![Certification 3](BADGE_URL_3) | [Certification 3](CREDLY_CERTIFICATION_URL_3) | Brief description of Certification 3 |
+
+## Usage
+
+You can view and utilize the code provided in this repository for reference or to understand the implementation details of the certifications.
+
+## License
+
+This project is licensed under the [Your License](https://github.com/YourUsername/YourRepo/blob/master/LICENSE) - see the [LICENSE](LICENSE) file for details.
+
+## Issues
+
+Feel free to submit issues and enhancement requests.
+
+## Contribution
+
+Contributions are always welcome! Please adhere to the [code of conduct](https://github.com/YourUsername/YourRepo/blob/master/CODE_OF_CONDUCT.md).
+
+
       
 </details>   
 
