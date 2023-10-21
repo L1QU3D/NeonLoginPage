@@ -90,7 +90,7 @@ This repository showcases a collection of my certifications.
 
  | Badge | Certification | Description |
 | ------------ | ----------- | ----- |
- ![Certification 1](./python-essentials-1.1.png) | [Certification 1](CREDLY_CERTIFICATION_URL_1) | Brief description of Certification 1 |
+ ![Certification 1](./github.png) | [Certification 1](CREDLY_CERTIFICATION_URL_1) | Brief description of Certification 1 |
 | ![Certification 2](BADGE_URL_2)| [Certification 2](CREDLY_CERTIFICATION_URL_2) | Brief description of Certification 2  |
 | ![Certification 3](BADGE_URL_3) | [Certification 3](CREDLY_CERTIFICATION_URL_3) | Brief description of Certification 3 |
 
