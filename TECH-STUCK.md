@@ -20,7 +20,8 @@
 | [![Markdown](https://img.shields.io/static/v1?label=&message=Markdown&color=000000&logo=markdown&logoColor=FFFFFF)](#) [🌐](https://en.wikipedia.org/wiki/Markdown) | 
 | [![Flutter](https://img.shields.io/static/v1?label=&message=Flutter&color=02569B&logo=flutter&logoColor=FFFFFF)](https://github.com/Lissy93?tab=repositories&q=&type=&language=dart) [🌐](https://flutter.dev/) |
 | [![Angular](https://img.shields.io/static/v1?label=&message=Angular&color=DD0031&logo=angular&logoColor=FFFFFF)](https://github.com/Lissy93?tab=repositories&q=&type=&language=angular) [🌐](https://angularjs.org/) |
-| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://github.com/Lissy93?tab=repositories&language=Python) [🌐](https://www.python.org/) |
+| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)] [![AUTOBOSS](https://img.shields.io/static/v1?label=&message=AUTOBOSS&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/L1QU3D/AUTOBOSS) 
+(https://github.com/Lissy93?tab=repositories&language=Python) [🌐](https://www.python.org/) |
 | [![CoffeeScript](https://img.shields.io/static/v1?label=&message=CoffeeScript&color=2F2625&logo=coffeescript&logoColor=FFFFFF)](https://github.com/Lissy93?tab=repositories&language=Coffeescript) [🌐](https://coffeescript.org/) | 
 | [![Android](https://img.shields.io/static/v1?label=&message=Android&color=3DDC84&logo=android&logoColor=FFFFFF)](https://github.com/Lissy93?tab=repositories&language=Java,Kotlin) [🌐](https://developer.android.com/) | 
 | [![Kotlin](https://img.shields.io/static/v1?label=&message=Kotlin&color=7F52FF&logo=kotlin&logoColor=FFFFFF)](https://github.com/Lissy93?tab=repositories&language=Kotlin) [🌐](https://kotlinlang.org/) | 
